@@ -1,0 +1,4 @@
+,Saisonnalités,Var_exogène,Rapidité,Application
+SARIMAX,-,+,+,14 jours pas journalier
+TBATS,+,-,-,14 jours pas horaire
+PROPHET,+,+,+,1 an
